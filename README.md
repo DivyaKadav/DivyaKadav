@@ -55,7 +55,13 @@ Postgraduate Linguistics student with a strong foundation in **translation**, **
 ![Praat](https://img.shields.io/badge/Praat-purple?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
-
+![Anaconda](https://img.shields.io/badge/Anaconda-42b029?style=for-the-badge&logo=anaconda&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-lightgrey?style=for-the-badge&logo=academia&logoColor=black)
+![SayMore](https://img.shields.io/badge/SayMore-8A2BE2?style=for-the-badge&logo=logmein&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000FF?style=for-the-badge&logo=audacity&logoColor=white)
+![Express Scribe](https://img.shields.io/badge/Express%20Scribe-888888?style=for-the-badge&logo=audiomack&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-212121?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-red?style=for-the-badge&logo=gitbook&logoColor=white)
 ---
 
 ## 📜 Certifications
