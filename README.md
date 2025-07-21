@@ -4,8 +4,9 @@
 ---
 
 
+![7c444d8debac9f5f51de818bd3f1241a365417d0r1-498-276_hq](https://github.com/user-attachments/assets/04525831-3009-4b02-bdb0-01d447e811ee)
 
-![studying-anime-girl](https://github.com/user-attachments/assets/dce3ceff-c418-4929-917a-8d7e9e932ece)
+
 
 ---
 
