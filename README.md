@@ -31,7 +31,7 @@ Postgraduate Linguistics student with a strong foundation in **translation**, **
 | **Japanese**     | Intermediate (JLPT N3 prep) |
 | **Chinese (Mandarin)** | HSK 2 Certified (HSK 3 prep) |
 | **German**       | A1 Certified        |
-| **Italian**      | Beginner            |
+
 
 ---
 
