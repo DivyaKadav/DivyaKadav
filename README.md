@@ -20,7 +20,12 @@
 </p>
 
 ---
+<h2>🌐 My Google Site</h2>
+<a href="https://sites.google.com/view/divyakadav?usp=sharing" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Sites_logo.svg/512px-Google_Sites_logo.svg.png" alt="Divya Kadav Google Site" height="120">
+</a>
 
+---
 <h3>🎓 Education</h3>
 
 - **M.A. Linguistics** – University of Mumbai (2023–2025)  
