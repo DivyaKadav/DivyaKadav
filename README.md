@@ -3,17 +3,6 @@
 <p>Welcome to my page! </br> I'm <b>Divya Kadav</b>, Linguist · Translator · Language-Tech Explorer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Mumbai, India</b>. </p>
 
 ---
-📊 **Language Proficiency**
-
-```txt
-English       ██████████████████████░░   Fluent
-Hindi         ██████████████████████░░   Near-Native
-Marathi       ████████████████████████   Native
-Japanese      ████████████▒░░░░░░░░░░░   JLPT N3 (Intermediate)
-Chinese       ████████▒░░░░░░░░░░░░░░░   HSK 2 (Prepping HSK 3)
-German        ████▒░░░░░░░░░░░░░░░░░░   A1 Certified
-
----
 
 <h3>💻 Things I work with</h3>
 <p>
@@ -38,6 +27,44 @@ German        ████▒░░░░░░░░░░░░░░░░░
 </a>
 
 ---
+<h2>🌍 Languages I Speak</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>English</td>
+      <td>Fluent</td>
+    </tr>
+    <tr>
+      <td>Hindi</td>
+      <td>Near-Native</td>
+    </tr>
+    <tr>
+      <td>Marathi</td>
+      <td>Native</td>
+    </tr>
+    <tr>
+      <td>Japanese</td>
+      <td>Intermediate (JLPT N3, prepping N2)</td>
+    </tr>
+    <tr>
+      <td>Chinese (Mandarin)</td>
+      <td>HSK 2 Certified (prepping HSK 3)</td>
+    </tr>
+    <tr>
+      <td>German</td>
+      <td>A1 Certified</td>
+    </tr>
+  </tbody>
+</table>
+---
+
 <h3>🎓 Education</h3>
 
 - **M.A. Linguistics** – University of Mumbai (2023–2025)  
