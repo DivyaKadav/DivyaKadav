@@ -100,4 +100,11 @@
 
 ---
 
+<h2>💡 Quote of the Day</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
 <p align="center"><i>This README is inspired by dynamic GitHub profiles.</i></p>
