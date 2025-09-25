@@ -20,10 +20,12 @@
 </p>
 
 ---
-<h2>🌐 My Google Site</h2>
+<h2>🌐 My Google Site Portfolio</h2>
 <a href="https://sites.google.com/view/divyakadav?usp=sharing" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Sites_logo.svg/512px-Google_Sites_logo.svg.png" alt="Divya Kadav Google Site" height="120">
+  <img src="https://raw.githubusercontent.com/DivyaKadav/your-repo-name/main/Book%20Store%20Banner%20in%20Pastel%20Pink%20Black%20Bold%20Style.png" 
+       alt="Divya Kadav Google Site" height="250">
 </a>
+
 
 ---
 <h3>🎓 Education</h3>
