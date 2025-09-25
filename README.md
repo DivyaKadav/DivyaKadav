@@ -21,10 +21,11 @@
 
 ---
 <h2>🌐 My Google Site Portfolio</h2>
-<a href="https://sites.google.com/view/divyakadav?usp=sharing" target="_blank">
+<a href="https://github.com/user-attachments/assets/07420af6-2d20-4f54-9aab-f1f618dcaa68" target="_blank">
   <img src="https://github.com/user-attachments/assets/38b81225-7e28-4cf1-8285-6b4ccb8be661" 
-       alt="Divya Kadav Google Site" height="250">
+       alt="Divya Kadav Portfolio Video" height="250">
 </a>
+
 
 ---
 <h3>🎓 Education</h3>
