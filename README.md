@@ -76,10 +76,9 @@
 - Indian Sign Language (2023), Modi Script Advanced (2024)  
 
 ---
-
-<h3>📊 GitHub Stats</h3>
+<h2>📊 Languages Used</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=tokyonight&title_color=44d18a&icon_color=44d18a&text_color=ffffff&bg_color=0d1117" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
