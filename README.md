@@ -23,9 +23,10 @@
 <h2>🌐 My Google Site Portfolio & LinkedIn</h2>
 
 <a href="https://sites.google.com/view/divyakadav?usp=sharing" target="_blank">
- <img src="https://github.com/user-attachments/assets/0b360b92-b703-4074-97b3-ae517e5c6c35" 
-      alt="PORTFOLIO" width="250">
+  <img src="https://github.com/user-attachments/assets/7d64bb2a-7d11-493f-afca-bbd4a5d80f28" 
+       alt="DIVYA KADAV (1)" width="250">
 </a>
+
 
 <a href="https://www.linkedin.com/in/divyakadav" target="_blank">
   <img src="https://github.com/user-attachments/assets/16851f58-ac06-4b20-8721-b968c64370b3" 
