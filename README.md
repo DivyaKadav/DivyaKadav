@@ -22,13 +22,11 @@
 ---
 <h2>🌐 My Google Site Portfolio</h2>
 <a href="https://sites.google.com/view/divyakadav?usp=sharing" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4ed90131-2dcc-49b1-8902-c9e840b442a1" 
-       alt="Divya Kadav Google Site" width="600">
+ <img width="500" height="500" alt="PORTFOLIO" src="https://github.com/user-attachments/assets/0b360b92-b703-4074-97b3-ae517e5c6c35" />
 </a>
 
 <a href="https://www.linkedin.com/in/divyakadav" target="_blank">
-  <img src="https://github.com/user-attachments/assets/b1adaca3-241f-4f13-b65c-f4dd3716e959" 
-       alt="Divya Kadav LinkedIn" width="600">
+  <img width="500" height="500" alt="DIVYA KADAV" src="https://github.com/user-attachments/assets/16851f58-ac06-4b20-8721-b968c64370b3" />
 </a>
 
 
