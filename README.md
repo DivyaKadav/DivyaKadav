@@ -3,6 +3,17 @@
 <p>Welcome to my page! </br> I'm <b>Divya Kadav</b>, Linguist · Translator · Language-Tech Explorer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Mumbai, India</b>. </p>
 
 ---
+📊 **Language Proficiency**
+
+```txt
+English       ██████████████████████░░   Fluent
+Hindi         ██████████████████████░░   Near-Native
+Marathi       ████████████████████████   Native
+Japanese      ████████████▒░░░░░░░░░░░   JLPT N3 (Intermediate)
+Chinese       ████████▒░░░░░░░░░░░░░░░   HSK 2 (Prepping HSK 3)
+German        ████▒░░░░░░░░░░░░░░░░░░   A1 Certified
+
+---
 
 <h3>💻 Things I work with</h3>
 <p>
