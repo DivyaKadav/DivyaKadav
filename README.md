@@ -22,10 +22,9 @@
 ---
 <h2>🌐 My Google Site Portfolio</h2>
 <a href="https://sites.google.com/view/divyakadav?usp=sharing" target="_blank">
-  <img src=<img width="3780" height="1890" alt="Book Store Banner in Pastel Pink Black Bold Style" src="https://github.com/user-attachments/assets/38b81225-7e28-4cf1-8285-6b4ccb8be661" />" 
+  <img src="https://github.com/user-attachments/assets/38b81225-7e28-4cf1-8285-6b4ccb8be661" 
        alt="Divya Kadav Google Site" height="250">
 </a>
-
 
 ---
 <h3>🎓 Education</h3>
