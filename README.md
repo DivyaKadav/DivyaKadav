@@ -1,158 +1,103 @@
-<h1 align="center" style="color: #E50914; font-family: 'Arial Black', sans-serif; font-size: 3em; margin: 0;">Hi 👋, I'm Divya Kadav</h1>
-<h3 align="center" style="color: #FFFFFF; font-family: Arial, sans-serif; font-size: 1.5em; margin: 0;">A Linguist · Translator · Language-Tech Explorer</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! ようこそ</h1>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/04525831-3009-4b02-bdb0-01d447e811ee" alt="Profile Image" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); max-width: 100%; height: auto;" />
-</div>
+<p>Welcome to my page! </br> I'm <b>Divya Kadav</b>, Linguist · Translator · Language-Tech Explorer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Mumbai, India</b>. </p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=drk09&label=Profile%20Views&color=E50914&style=flat" alt="drk09" />
-</div>
+<h3>💻 Things I work with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3d7b70?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Trados" src="https://img.shields.io/badge/-Trados-blue?style=flat-square&logo=sdl&logoColor=white" />
+  <img alt="ELAN" src="https://img.shields.io/badge/-ELAN-00a86b?style=flat-square&logo=data&logoColor=white" />
+  <img alt="Praat" src="https://img.shields.io/badge/-Praat-8A2BE2?style=flat-square&logo=soundcloud&logoColor=white" />
+  <img alt="FLEx" src="https://img.shields.io/badge/-FLEx-green?style=flat-square&logo=openaccess&logoColor=white" />
+  <img alt="SayMore" src="https://img.shields.io/badge/-SayMore-6A5ACD?style=flat-square&logo=logmein&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000FF?style=flat-square&logo=audacity&logoColor=white" />
+  <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-lightgrey?style=flat-square&logo=academia&logoColor=black" />
+</p>
 
 ---
 
-## 🎬 Professional Summary
+<h3>🎓 Education</h3>
 
-<div style="background-color: #141414; padding: 20px; border-radius: 10px; margin: 20px 0; color: #FFFFFF; text-align: center;">
-  Postgraduate Linguistics student with a strong foundation in <strong style="color: #E50914;">translation</strong>, <strong style="color: #E50914;">language documentation</strong>, and <strong style="color: #E50914;">multilingual communication</strong>. Currently pursuing <strong>JLPT N3</strong>, <strong>HSK 3</strong>, and building skills in <strong>Python</strong>, <strong>Cybersecurity</strong>, and <strong>AI prompt engineering</strong> to bridge tech and language.
-</div>
+- **M.A. Linguistics** – University of Mumbai (2023–2025)  
+  *Dissertation: Ujoni Assamese phonology/morphology*  
+  *Thesis: Human vs Machine Translation (Literary, Legal, Conversational)*  
+- **M.A. English (Ongoing)** – IGNOU  
+- **PG Diploma in Translation (Hindi ↔ English)** – IGNOU  
+- **B.A. Political Science & History** – B.K. Birla College (CGPA: 9.26/10)
 
 ---
 
-## 🌍 Languages I Speak *(Featured Row)*
-
-<div align="center">
-  <table style="background-color: #141414; border-radius: 10px; padding: 10px; color: #FFFFFF; width: 80%; margin: 0 auto;">
+<h3>💼 Experience</h3>
+<table>
+  <thead align="center">
     <tr>
-      <th style="color: #E50914; padding: 10px; text-align: left;">Language</th>
-      <th style="color: #E50914; padding: 10px; text-align: left;">Proficiency</th>
+      <td><b>📂 Role</b></td>
+      <td><b>🏢 Organisation</b></td>
+      <td><b>🗓 Duration</b></td>
     </tr>
-    <tr style="background-color: #000000; border-radius: 5px; margin: 5px 0;">
-      <td style="padding: 10px;"><strong>English</strong></td>
-      <td style="padding: 10px; color: #E50914;">Fluent</td>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Content Writer</td>
+      <td>InAmigos Foundation</td>
+      <td>2025</td>
     </tr>
-    <tr style="background-color: #000000; border-radius: 5px; margin: 5px 0;">
-      <td style="padding: 10px;"><strong>Hindi / Marathi</strong></td>
-      <td style="padding: 10px; color: #E50914;">Native</td>
+    <tr>
+      <td>Student Coordinator (OJT)</td>
+      <td>University of Mumbai</td>
+      <td>2024</td>
     </tr>
-    <tr style="background-color: #000000; border-radius: 5px; margin: 5px 0;">
-      <td style="padding: 10px;"><strong>Japanese</strong></td>
-      <td style="padding: 10px;">Intermediate (JLPT N3 prep)</td>
+    <tr>
+      <td>Facility Training Intern</td>
+      <td>Link India Services</td>
+      <td>2024</td>
     </tr>
-    <tr style="background-color: #000000; border-radius: 5px; margin: 5px 0;">
-      <td style="padding: 10px;"><strong>Chinese (Mandarin)</strong></td>
-      <td style="padding: 10px;">HSK 2 Certified (HSK 3 prep)</td>
+    <tr>
+      <td>Archive & Library Intern</td>
+      <td>Maritime History Society (Indian Navy HQ)</td>
+      <td>2023</td>
     </tr>
-    <tr style="background-color: #000000; border-radius: 5px; margin: 5px 0;">
-      <td style="padding: 10px;"><strong>German</strong></td>
-      <td style="padding: 10px;">A1 Certified</td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 ---
 
-## 🛠️ Skills Snapshot *(Toolbox Row)*
+<h3>📜 Certifications</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: #141414; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <div style="background-color: #000000; padding: 10px; border-radius: 5px; color: #FFFFFF; text-align: center; min-width: 200px;">
-    <strong style="color: #E50914;">Translation & Linguistics</strong><br>ELAN, Praat, FLEx, SayMore
-  </div>
-  <div style="background-color: #000000; padding: 10px; border-radius: 5px; color: #FFFFFF; text-align: center; min-width: 200px;">
-    <strong style="color: #E50914;">Phonetic Analysis & Corpus Annotation</strong>
-  </div>
-  <div style="background-color: #000000; padding: 10px; border-radius: 5px; color: #FFFFFF; text-align: center; min-width: 200px;">
-    <strong style="color: #E50914;">Programming</strong><br>Python (NLTK), R, LaTeX
-  </div>
-  <div style="background-color: #000000; padding: 10px; border-radius: 5px; color: #FFFFFF; text-align: center; min-width: 200px;">
-    <strong style="color: #E50914;">Tools</strong><br>Trados, Canva, Google Suite, MS Office
-  </div>
-  <div style="background-color: #000000; padding: 10px; border-radius: 5px; color: #FFFFFF; text-align: center; min-width: 200px;">
-    <strong style="color: #E50914;">Specialized</strong><br>Indian Sign Language, Modi Script, ISL, Archival Digitization
-  </div>
-</div>
+- Computational Linguistics (Udemy, 2025)  
+- Machine Translation (Coursera, 2025)  
+- Language Documentation (IIT Indore, 2024)  
+- Japanese NAT N3 (2025), HSK 2 (2025), German A1 (2021)  
+- Indian Sign Language (2023), Modi Script Advanced (2024)  
 
 ---
 
-## 🔧 Languages & Tools *(Tech Stack Row)*
-
-<div align="center">
-  ![Python](https://img.shields.io/badge/Python-E50914?style=for-the-badge&logo=python&logoColor=white)
-  ![Trados](https://img.shields.io/badge/Trados-E50914?style=for-the-badge&logo=sdl&logoColor=white)
-  ![ELAN](https://img.shields.io/badge/ELAN-E50914?style=for-the-badge&logo=data&logoColor=white)
-  ![FLEx](https://img.shields.io/badge/FLEx-E50914?style=for-the-badge&logo=openaccess&logoColor=white)
-  ![R](https://img.shields.io/badge/R-E50914?style=for-the-badge&logo=r&logoColor=white)
-  ![Praat](https://img.shields.io/badge/Praat-E50914?style=for-the-badge&logo=soundcloud&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-E50914?style=for-the-badge&logo=canva&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-E50914?style=for-the-badge&logo=notion&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-E50914?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![NLTK](https://img.shields.io/badge/NLTK-E50914?style=for-the-badge&logo=academia&logoColor=white)
-  ![SayMore](https://img.shields.io/badge/SayMore-E50914?style=for-the-badge&logo=logmein&logoColor=white)
-  ![Audacity](https://img.shields.io/badge/Audacity-E50914?style=for-the-badge&logo=audacity&logoColor=white)
-  ![Express Scribe](https://img.shields.io/badge/Express%20Scribe-E50914?style=for-the-badge&logo=audiomack&logoColor=white)
-  ![Ollama](https://img.shields.io/badge/Ollama-E50914?style=for-the-badge&logo=openai&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG-E50914?style=for-the-badge&logo=gitbook&logoColor=white)
-</div>
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=tokyonight&title_color=44d18a&icon_color=44d18a&text_color=ffffff&bg_color=0d1117" width="450"/>
+</p>
 
 ---
 
-## 📜 Certifications *(Highlights Row)*
-
-<div style="background-color: #141414; padding: 20px; border-radius: 10px; margin: 20px 0; color: #FFFFFF;">
-  <ul style="list-style: none; padding: 0;">
-    <li style="margin: 10px 0; padding: 10px; background-color: #000000; border-left: 4px solid #E50914; border-radius: 5px;"><strong style="color: #E50914;">LLM Engineer Course</strong> (2025, Udemy)</li>
-    <li style="margin: 10px 0; padding: 10px; background-color: #000000; border-left: 4px solid #E50914; border-radius: 5px;"><strong>Machine Translation</strong> (Coursera)</li>
-    <li style="margin: 10px 0; padding: 10px; background-color: #000000; border-left: 4px solid #E50914; border-radius: 5px;"><strong>Language Documentation</strong> (IIT Indore)</li>
-    <li style="margin: 10px 0; padding: 10px; background-color: #000000; border-left: 4px solid #E50914; border-radius: 5px;"><strong>NAT N5 (Japanese)</strong> | <strong>HSK 2 (Chinese)</strong></li>
-    <li style="margin: 10px 0; padding: 10px; background-color: #000000; border-left: 4px solid #E50914; border-radius: 5px;"><strong>Indian Sign Language</strong></li>
-    <li style="margin: 10px 0; padding: 10px; background-color: #000000; border-left: 4px solid #E50914; border-radius: 5px;"><strong>Modi Script</strong> – Advanced Level</li>
-  </ul>
-</div>
+<h3>🏆 Achievements</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyaKadav&theme=onedark&title=MultiLanguage,Commits,Repositories,Followers&margin-w=15&margin-h=15&no-frame=true&row=1" />
+</p>
 
 ---
 
-## 🗂️ Notable Internships *(Experience Row)*
-
-<div style="background-color: #141414; padding: 20px; border-radius: 10px; margin: 20px 0; color: #FFFFFF;">
-  <div style="margin: 15px 0; padding: 15px; background-color: #000000; border-radius: 5px; border-left: 4px solid #E50914;">
-    <strong style="color: #E50914;">📚 Archive & Library Intern – Maritime History Society, Mumbai</strong><br>
-    Digitized records, assisted in exhibitions, helped visually impaired visitors.
-  </div>
-  <div style="margin: 15px 0; padding: 15px; background-color: #000000; border-radius: 5px; border-left: 4px solid #E50914;">
-    <strong style="color: #E50914;">🏢 Facility Training Intern – Link India Services, Mumbai</strong><br>
-    Created training content, digitized field documentation, boosted online presence.
-  </div>
-</div>
+<h3>🌐 Where to find me</h3>
+<p>
+  <a href="https://github.com/DivyaKadav" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kadavdivya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kadavdivya@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats *(Performance Row)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drk09&show_icons=true&theme=radical&title_color=E50914&icon_color=E50914&text_color=FFFFFF&bg_color=141414" width="450" />
-</div>
-
----
-
-## 🏆 Achievements *(Trophies Row)*
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=drk09&theme=radical&title=MultiLanguage,Commits,Repositories,Followers&margin-w=15&margin-h=15&no-frame=true&row=1" alt="github trophies" />
-</div>
-
----
-
-## 📫 Connect With Me *(Call to Action)*
-
-<div align="center" style="background-color: #141414; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-E50914?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadavdivya)  
-  [![Gmail](https://img.shields.io/badge/Gmail-E50914?style=flat&logo=gmail&logoColor=white)](mailto:kadavdivya@gmail.com)
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914,141414&height=150&section=footer" />
-</div>
+<p align="center"><i>This README is inspired by dynamic GitHub profiles.</i></p>
