@@ -105,5 +105,10 @@
 </p>
 
 ---
+<h2>🔥 Streak Stats</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DivyaKadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+---
 
 <p align="center"><i>This README is inspired by dynamic GitHub profiles.</i></p>
