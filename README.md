@@ -26,6 +26,12 @@
        alt="Divya Kadav Google Site" width="600">
 </a>
 
+<a href="https://www.linkedin.com/in/divyakadav" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b1adaca3-241f-4f13-b65c-f4dd3716e959" 
+       alt="Divya Kadav LinkedIn" width="600">
+</a>
+
+
 ---
 <h2>🌍 Languages I Speak</h2>
 
