@@ -91,14 +91,33 @@ You’ll find my active work across:
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=radical&bg_color=0D1117&title_color=ff2e63&icon_color=ff577f&text_color=ffffff&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=radical&bg_color=0D1117&title_color=ff2e63&text_color=ffffff&hide_border=true" width="47%"/>
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" width="95%"/>
-</p>
+<div align="center">
+
+  <!-- Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=radical&bg_color=0D1117&title_color=ff2e63&icon_color=ff577f&text_color=ffffff&hide_border=true" 
+    width="400" 
+    alt="Divya's GitHub Stats"
+  />
+
+  <!-- Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=radical&bg_color=0D1117&title_color=ff2e63&text_color=ffffff&hide_border=true" 
+    width="400" 
+    alt="Most Used Languages"
+  />
+
+  <!-- Streak Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" 
+    width="820" 
+    alt="GitHub Streak"
+  />
+
+</div>
+
 
 ---
 
