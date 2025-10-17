@@ -15,7 +15,7 @@ Hi, I’m **Divya Kadav**, a linguist and translator passionate about connecting
 I explore the intersection of **linguistics, computational tools, web development, and cybersecurity**, building bridges between words, data, and digital systems.
 
 🔹 Currently working on projects in **Computational Linguistics**, **Translation**, and **Language Processing**  
-🔹 Expanding technical depth in **Python**, **HTML/CSS**, and **Cybersecurity fundamentals**  
+🔹 Expanding technical depth in **Python**, **HTML/CSS**, and **Cybersecurity**  
 🔹 Inspired by minimalism, precision, and meaningful design
 
 ---
@@ -75,16 +75,18 @@ I explore the intersection of **linguistics, computational tools, web developmen
 
 ---
 
-### 🎞 Projects & Research
-Here’s what you’ll find in my repositories:
+### 🎞 Featured Projects
+You’ll find my active work across:
+- 🧩 **Computational Linguistics** — NLP, phonology & speech data  
+- 🌐 **Translation Systems** — Human vs Machine models  
+- 💻 **Web Development** — Responsive, accessible designs  
+- 🔒 **Cybersecurity** — Ethical testing & safe architecture  
 
-- 🧩 **Computational Linguistics** — speech, text, and morphology analysis  
-- 🌐 **Translation Systems** — human–machine comparative studies  
-- 💻 **Web Projects** — HTML, CSS, responsive UI/UX design  
-- 🔒 **Cybersecurity** — ethical hacking, data privacy, and secure design
-
-👉 Visit my repositories to explore these in action:  
-**[github.com/DivyaKadav?tab=repositories](https://github.com/DivyaKadav?tab=repositories)**
+<p align="center">
+  <a href="https://github.com/DivyaKadav?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/CLICK%20HERE%20TO%20VIEW%20PROJECTS-ff2e63?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  </a>
+</p>
 
 ---
 
@@ -95,7 +97,7 @@ Here’s what you’ll find in my repositories:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" width="95%"/>
 </p>
 
 ---
