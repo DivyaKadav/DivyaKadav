@@ -5,6 +5,8 @@ I'm <b>Divya Kadav</b>, <b>Linguist · Translator · Language–Tech Explorer</b
 <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Mumbai, India</b>. 
 </p>
 
+---
+
 <h3>💻 Things I work with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-ff2e63?style=flat-square&logo=python&logoColor=white" />
@@ -22,7 +24,7 @@ I'm <b>Divya Kadav</b>, <b>Linguist · Translator · Language–Tech Explorer</b
 
 ---
 
-<h3>🧩 Current Focus Areas</h3>
+<h3>🧩 Focus Areas</h3>
 <ul>
   <li>🌐 Computational Linguistics & Natural Language Processing</li>
   <li>💬 Translation Studies – Human vs Machine Translation</li>
@@ -69,6 +71,21 @@ I'm <b>Divya Kadav</b>, <b>Linguist · Translator · Language–Tech Explorer</b
 
 ---
 
+<h3>🌤️ Mumbai, India</h3>
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="20"/> <b>Current Weather:</b> 31°C, <i>clear sky</i>  
+<br/>☀️ <b>Sunrise:</b> 06:31 AM &nbsp;&nbsp; 🌇 <b>Sunset:</b> 06:20 PM  
+<br/><i>(Updated daily via OpenWeather API)</i>
+</p>
+
+<p>
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Mumbai_Skyline_at_Night.jpg" /> 
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Gateway_of_India%2C_Mumbai%2C_India.jpg" /> 
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Marine_Drive_Night.jpg" />
+</p>
+
+---
+
 <h3>🤝 Connect with me</h3>
 
 <p align="center">
@@ -88,5 +105,5 @@ I'm <b>Divya Kadav</b>, <b>Linguist · Translator · Language–Tech Explorer</b
 
 ---
 
-<p align="center"><i>This README is a living portfolio — updated as I grow, learn, and build.</i></p>
+<p align="center"><i>This README updates automatically with real weather and data from Mumbai.</i></p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff2e63&height=100&section=footer"/></p>
