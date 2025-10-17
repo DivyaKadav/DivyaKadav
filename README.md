@@ -1,4 +1,4 @@
-<!-- Hero Banner -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2e63&height=150&section=header&text=DIVYA%20KADAV&fontSize=45&fontColor=ffffff&fontAlignY=35" />
 </p>
@@ -14,14 +14,14 @@
 Hi, I’m **Divya Kadav**, a linguist and translator passionate about connecting human language and technology.  
 I explore the intersection of **linguistics, computational tools, web development, and cybersecurity**, building bridges between words, data, and digital systems.
 
-🔹 Currently working on projects in **Computational Linguistics**, **Translation**, and **Language Processing**  
+🔹 Working on projects in **Computational Linguistics**, **Translation**, and **Language Processing**  
 🔹 Expanding technical depth in **Python**, **HTML/CSS**, and **Cybersecurity**  
 🔹 Inspired by minimalism, precision, and meaningful design
 
 ---
 
 ### 💻 Technical Skills
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-ff2e63?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-ff577f?style=for-the-badge&logo=protonvpn&logoColor=white"/>
   <img alt="Web Development" src="https://img.shields.io/badge/Web%20Development-ff9999?style=for-the-badge&logo=webflow&logoColor=white"/>
@@ -32,7 +32,7 @@ I explore the intersection of **linguistics, computational tools, web developmen
 ---
 
 ### ⚙️ Tools & Platforms
-<p>
+<p align="center">
   <img alt="Trados" src="https://img.shields.io/badge/Trados-2b2b2b?style=for-the-badge&logo=sdl&logoColor=ff2e63"/>
   <img alt="ELAN" src="https://img.shields.io/badge/ELAN-2b2b2b?style=for-the-badge&logo=data&logoColor=ff7396"/>
   <img alt="Praat" src="https://img.shields.io/badge/Praat-2b2b2b?style=for-the-badge&logo=soundcloud&logoColor=ff9999"/>
@@ -84,13 +84,15 @@ You’ll find my active work across:
 
 <p align="center">
   <a href="https://github.com/DivyaKadav?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/CLICK%20HERE%20TO%20VIEW%20PROJECTS-ff2e63?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    <img 
+      src="https://img.shields.io/badge/CLICK%20HERE%20TO%20VIEW%20PROJECTS-ff2e63?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+      alt="View Projects Button"
+    />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -104,21 +106,19 @@ You’ll find my active work across:
 
   <!-- Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=radical&bg_color=0D1117&title_color=ff2e63&text_color=ffffff&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=rose_pine&bg_color=0D1117&title_color=ff2e63&text_color=ffffff&hide_border=true&langs_count=8" 
     width="400" 
     alt="Most Used Languages"
   />
 
- <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=DivyaKadav&theme=radical&hide_border=true&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&date_format=j%20M%5B%20Y%5D&v=1"
+  <!-- Streak Card -->
+  <img 
+    src="https://streak-stats.demolab.com?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" 
+    width="820" 
     alt="GitHub Streak"
-    width="820"
   />
-</p>
 
 </div>
-
 
 ---
 
