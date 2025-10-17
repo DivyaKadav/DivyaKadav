@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Divya%20Kadav&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Linguist%20%C2%B7%20Translator%20%C2%B7%20Language%E2%80%93Tech%20Explorer&descAlignY=55&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Divya%20Kadav&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Linguist%20%20%7C%20%20Translator%20%20%7C%20%20Language-Tech%20Explorer&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
 </div>
 
