@@ -126,33 +126,38 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 
 ---
 
-📈 Activity Graph
+### 📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaKadav&theme=tokyo-night&bg_color=0D1117&color=ff2e63&line=ff577f&point=ff9999&area=true&hide_border=false"/> </div>
 
 ---
 
-🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DivyaKadav&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/> </div>
 
 ---
 
-💭 Random Dev Quote
+### 💭 Random Dev Quote
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_bg_color=0D1117&border_color=ff2e63"/> </div>
 
 ---
 
-📫 Let's Connect!
+### 📫 Let's Connect!
 <div align="center">
 
 I'm always excited to collaborate on projects involving linguistics, translation technology, NLP, or multilingual web development!
 
-<a href="mailto:kadavdivya@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:kadavdivya@gmail.com" target="_blank">
+  <kbd style="background:#EA4335;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">
+    📧 Email Me
+  </kbd>
+</a>
+
 
 ---
 
 "Language is the road map of a culture. It tells you where its people come from and where they are going." — Rita Mae Brown
 
-<br/> <img src="https://komarev.com/ghpvc/?username=DivyaKadav&label=Profile%20Views&color=ff2e63&style=for-the-badge" alt="Profile Views"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/> ```
+<br/> <img src="https://komarev.com/ghpvc/?username=DivyaKadav&label=Profile%20Views&color=ff2e63&style=for-the-badge" alt="Profile Views"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/> 
 
 
 
