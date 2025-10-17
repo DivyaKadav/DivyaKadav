@@ -108,8 +108,6 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ff7396&border=ff2e63" alt="GitHub Streak"/>
-
 </div>
 
 ---
@@ -130,22 +128,23 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 
 ## 💡 Current Focus
 
-```javascript
+```js
 const divyaKadav = {
-    location: "Mumbai, India 🇮🇳",
-    role: "Linguist | Translator | Language-Tech Explorer",
-    languages: ["English", "Hindi", "Marathi", "Japanese", "Chinese", "German"],
-    interests: ["NLP", "Translation Tech", "Web Dev", "Cybersecurity"],
+  location: "Mumbai, India 🇮🇳",
+  role: "Linguist | Translator | Language-Tech Explorer",
+  languages: ["English", "Hindi", "Marathi", "Japanese", "Chinese", "German"],
+  interests: ["NLP", "Translation Tech", "Web Dev", "Cybersecurity"],
 
-    currentGoals: {
-        learning: ["JLPT N2", "HSK 3", "Advanced NLP"],
-        building: ["Multilingual Web Apps", "Translation Tools"],
-        exploring: ["AI Ethics", "Language Models", "Computational Semantics"]
-    },
+  currentGoals: {
+    learning: ["JLPT N2", "HSK 3", "Advanced NLP"],
+    building: ["Multilingual Web Apps", "Translation Tools"],
+    exploring: ["AI Ethics", "Language Models", "Computational Semantics"]
+  },
 
-    getInTouch() {
-        return "Always open to collaborate on language-tech projects! 🤝";
-    }
+  getInTouch() {
+    return "Always open to collaborate on language-tech projects! 🤝";
+  }
 };
 
+// Output:
 console.log(divyaKadav.getInTouch());
