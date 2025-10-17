@@ -65,24 +65,7 @@ I'm <b>Divya Kadav</b>, <b>Linguist · Translator · Language–Tech Explorer</b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=rose_pine&bg_color=0D1117&title_color=ff2e63&text_color=ffffff&hide_border=true&langs_count=8" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" width="820"/>
-</p>
-
 ---
-
-<h3>🌤️ Mumbai, India</h3>
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="20"/> <b>Current Weather:</b> 31°C, <i>clear sky</i>  
-<br/>☀️ <b>Sunrise:</b> 06:31 AM &nbsp;&nbsp; 🌇 <b>Sunset:</b> 06:20 PM  
-<br/><i>(Updated daily via OpenWeather API)</i>
-</p>
-
-<p>
-  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Mumbai_Skyline_at_Night.jpg" /> 
-  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Gateway_of_India%2C_Mumbai%2C_India.jpg" /> 
-  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Marine_Drive_Night.jpg" />
-</p>
 
 ---
 
