@@ -1,28 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Divya%20Kadav&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Linguist%20%20%7C%20%20Translator%20%20%7C%20%20Language-Tech%20Explorer&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Divya%20Kadav&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Linguist%20%7C%20Translator%20%7C%20Language-Tech%20Explorer&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
-</div>
-
-<div align="center">
-  
 ### 👋 Welcome to my digital workspace!
 
-I'm **Divya Kadav**, bridging the worlds of language and technology from **Mumbai, India** 🇮🇳
+I'm **Divya Kadav**, bridging the worlds of **language and technology** from **Mumbai, India** 🇮🇳  
+*Building the future of multilingual communication, one line of code at a time.*
 
-*Building the future of multilingual communication, one line of code at a time*
+---
 
 <a href="https://www.linkedin.com/in/divyakadav" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0077B5" alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kadavdivya@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=D93025" alt="Email" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://sites.google.com/view/divyakadav?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF2E63&color=FF577F" alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/DivyaKadav" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=24292F" alt="GitHub" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -67,9 +64,9 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Linguistic Analysis
-![Praat](https://img.shields.io/badge/Praat-Phonetic%20Analysis-ff577f?style=for-the-badge&logo=soundcloud&logoColor=white)
-![ELAN](https://img.shields.io/badge/ELAN-Annotation%20Tool-ff7396?style=for-the-badge&logo=data&logoColor=white)
-![Trados](https://img.shields.io/badge/SDL%20Trados-CAT%20Tool-ff2e63?style=for-the-badge&logo=sdl&logoColor=white)
+![Praat](https://img.shields.io/badge/Praat-Phonetic%20Analysis-ff577f?style=for-the-badge)
+![ELAN](https://img.shields.io/badge/ELAN-Annotation%20Tool-ff7396?style=for-the-badge)
+![Trados](https://img.shields.io/badge/SDL%20Trados-CAT%20Tool-ff2e63?style=for-the-badge)
 
 ### Creative & Productivity
 ![Notion](https://img.shields.io/badge/Notion-Organization-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -77,7 +74,7 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 ![Audacity](https://img.shields.io/badge/Audacity-Audio%20Editing-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
 ### Security
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ethical%20Practices-ff577f?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ethical%20Practices-ff577f?style=for-the-badge)
 
 </div>
 
@@ -88,13 +85,13 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 <div align="center">
 
 | 🗣️ Language | 📊 Proficiency Level | 🎓 Certification |
-|:------------|:--------------------|:-----------------|
+|:------------|:--------------------:|:----------------:|
 | **English** | ████████████████████ 100% | Fluent |
 | **Marathi** | ████████████████████ 100% | Native |
-| **Hindi** | ███████████████████░ 95% | Near-Native |
-| **Japanese** | ██████████████░░░░░░ 70% | JLPT N3 → N2 |
-| **Chinese** | █████████░░░░░░░░░░░ 45% | HSK 2 → 3 |
-| **German** | ████████░░░░░░░░░░░░ 40% | A1 Certified |
+| **Hindi** | ██████████████████░░ 95% | Near-Native |
+| **Japanese** | █████████████░░░░░░ 70% | JLPT N3 → N2 |
+| **Chinese** | ████████░░░░░░░░░░░ 45% | HSK 2 → 3 |
+| **German** | ███████░░░░░░░░░░░░░ 40% | A1 Certified |
 
 *Currently leveling up: Japanese (N2) & Mandarin (HSK 3)*
 
@@ -105,15 +102,13 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=ff2e63&icon_color=ff577f&text_color=ffffff&border_color=ff2e63&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=radical&bg_color=0D1117&title_color=ff2e63&text_color=ffffff&border_color=ff2e63&hide_border=false&langs_count=8"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=ff2e63&icon_color=ff577f&text_color=ffffff&border_color=ff2e63"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=radical&bg_color=0D1117&title_color=ff2e63&text_color=ffffff&border_color=ff2e63&langs_count=8"/>
 
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ff7396&border=ff2e63&stroke=ff2e63&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff9999&dates=ffffff" alt="GitHub Streak"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ff7396&border=ff2e63" alt="GitHub Streak"/>
 
 </div>
 
@@ -124,10 +119,10 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 <div align="center">
 
 <a href="https://github.com/DivyaKadav?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/🔍%20EXPLORE%20ALL%20PROJECTS-FF2E63?style=for-the-badge&logo=github&logoColor=white&labelColor=FF2E63&color=FF577F" alt="Explore Projects"/>
+  <img src="https://img.shields.io/badge/🔍%20EXPLORE%20ALL%20PROJECTS-FF2E63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-*Building at the intersection of linguistics, technology, and innovation*
+*Building at the intersection of linguistics, technology, and innovation.*
 
 </div>
 
@@ -135,83 +130,22 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 
 ## 💡 Current Focus
 
-<div align="center">
-
 ```javascript
 const divyaKadav = {
     location: "Mumbai, India 🇮🇳",
     role: "Linguist | Translator | Language-Tech Explorer",
     languages: ["English", "Hindi", "Marathi", "Japanese", "Chinese", "German"],
     interests: ["NLP", "Translation Tech", "Web Dev", "Cybersecurity"],
-    
+
     currentGoals: {
         learning: ["JLPT N2", "HSK 3", "Advanced NLP"],
         building: ["Multilingual Web Apps", "Translation Tools"],
         exploring: ["AI Ethics", "Language Models", "Computational Semantics"]
     },
-    
-    getInTouch: function() {
+
+    getInTouch() {
         return "Always open to collaborate on language-tech projects! 🤝";
     }
 };
 
 console.log(divyaKadav.getInTouch());
-```
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaKadav&theme=tokyo-night&bg_color=0D1117&color=ff2e63&line=ff577f&point=ff9999&area=true&hide_border=false" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DivyaKadav&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=ff2e63&icon_color=ff577f&text_color=ffffff" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_bg_color=0D1117&border_color=ff2e63" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on projects involving **linguistics**, **translation technology**, **NLP**, or **multilingual web development**!
-
-Whether you want to discuss language models, build something cool together, or just chat about polyglot life, feel free to reach out!
-
-<a href="mailto:kadavdivya@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=D93025" alt="Email Me"/>
-</a>
-
----
-
-*"Language is the road map of a culture. It tells you where its people come from and where they are going."* — Rita Mae Brown
-
----
-
-<img src="https://komarev.com/ghpvc/?username=DivyaKadav&label=Profile%20Views&color=ff2e63&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
