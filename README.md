@@ -126,25 +126,33 @@ Ensuring digital safety through ethical hacking practices and security-first dev
 
 ---
 
-## 💡 Current Focus
+📈 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaKadav&theme=tokyo-night&bg_color=0D1117&color=ff2e63&line=ff577f&point=ff9999&area=true&hide_border=false"/> </div>
 
-```js
-const divyaKadav = {
-  location: "Mumbai, India 🇮🇳",
-  role: "Linguist | Translator | Language-Tech Explorer",
-  languages: ["English", "Hindi", "Marathi", "Japanese", "Chinese", "German"],
-  interests: ["NLP", "Translation Tech", "Web Dev", "Cybersecurity"],
+---
 
-  currentGoals: {
-    learning: ["JLPT N2", "HSK 3", "Advanced NLP"],
-    building: ["Multilingual Web Apps", "Translation Tools"],
-    exploring: ["AI Ethics", "Language Models", "Computational Semantics"]
-  },
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DivyaKadav&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/> </div>
 
-  getInTouch() {
-    return "Always open to collaborate on language-tech projects! 🤝";
-  }
-};
+---
 
-// Output:
-console.log(divyaKadav.getInTouch());
+💭 Random Dev Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_bg_color=0D1117&border_color=ff2e63"/> </div>
+
+---
+
+📫 Let's Connect!
+<div align="center">
+
+I'm always excited to collaborate on projects involving linguistics, translation technology, NLP, or multilingual web development!
+
+<a href="mailto:kadavdivya@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+---
+
+"Language is the road map of a culture. It tells you where its people come from and where they are going." — Rita Mae Brown
+
+<br/> <img src="https://komarev.com/ghpvc/?username=DivyaKadav&label=Profile%20Views&color=ff2e63&style=for-the-badge" alt="Profile Views"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/> ```
+
+
+
