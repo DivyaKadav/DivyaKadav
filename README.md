@@ -148,7 +148,7 @@ I'm always excited to collaborate on projects involving linguistics, translation
 
 <a href="mailto:kadavdivya@gmail.com" target="_blank">
   <kbd style="background:#EA4335;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">
-    📧 Email Me
+    📧 kadavdivya@gmail.com
   </kbd>
 </a>
 
