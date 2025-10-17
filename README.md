@@ -109,12 +109,13 @@ You’ll find my active work across:
     alt="Most Used Languages"
   />
 
-  <!-- Streak Card -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" 
-    width="820" 
+ <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DivyaKadav&theme=radical&hide_border=true&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&date_format=j%20M%5B%20Y%5D&v=1"
     alt="GitHub Streak"
+    width="820"
   />
+</p>
 
 </div>
 
