@@ -111,13 +111,6 @@ You’ll find my active work across:
     alt="Most Used Languages"
   />
 
-  <!-- Streak Card -->
-  <img 
-    src="https://streak-stats.demolab.com?user=DivyaKadav&theme=radical&background=0D1117&ring=ff2e63&fire=ff577f&currStreakLabel=ffffff&sideLabels=ffffff&hide_border=true" 
-    width="820" 
-    alt="GitHub Streak"
-  />
-
 </div>
 
 ---
