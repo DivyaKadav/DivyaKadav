@@ -15,7 +15,7 @@
 
 ---
 
-### 💗 What I work on (quick)
+### 💗 What I work on
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-ff6fa1?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-ff8fb1?style=for-the-badge&logo=protonvpn&logoColor=white"/>
@@ -69,37 +69,17 @@
 
 ---
 
-### 🎓 Education
-- **M.A. Linguistics** – University of Mumbai (2023–2025)  
-  *Dissertation: Ujoni Assamese phonology/morphology*  
-  *Thesis: Human vs Machine Translation (Literary, Legal, Conversational)*  
-- **M.A. English (Ongoing)** – IGNOU  
-- **PG Diploma in Translation (Hindi ↔ English)** – IGNOU  
-- **B.A. Political Science & History** – B.K. Birla College (CGPA: 9.26/10)
+### 🧠 Explore My Projects
+💬 I work on projects that connect **language, data, and digital systems** — from understanding human speech patterns to securing web platforms.
 
----
+🌸 **Check out my repositories** to explore:
+- 🧩 *Computational Linguistics & Natural Language Processing*
+- 🌐 *Translation Tools and Multilingual Resources*
+- 💻 *Web Development (HTML, CSS, Python Projects)*
+- 🔒 *Cybersecurity Practices & Technical Experiments*
 
-### 💼 Experience
-<table>
-  <thead align="center">
-    <tr><td><b>📂 Role</b></td><td><b>🏢 Organisation</b></td><td><b>🗓 Duration</b></td></tr>
-  </thead>
-  <tbody>
-    <tr><td>Content Writer</td><td>InAmigos Foundation</td><td>2025</td></tr>
-    <tr><td>Student Coordinator (OJT)</td><td>University of Mumbai</td><td>2024</td></tr>
-    <tr><td>Facility Training Intern</td><td>Link India Services</td><td>2024</td></tr>
-    <tr><td>Archive & Library Intern</td><td>Maritime History Society (Indian Navy HQ)</td><td>2023</td></tr>
-  </tbody>
-</table>
-
----
-
-### 📜 Certifications
-- Computational Linguistics (Udemy, 2025)  
-- Machine Translation (Coursera, 2025)  
-- Language Documentation (IIT Indore, 2024)  
-- Japanese NAT N3 (2025), HSK 2 (2025), German A1 (2021)  
-- Indian Sign Language (2023), Modi Script Advanced (2024)  
+✨ Each repository reflects what I’m currently learning and building.  
+Browse, fork, and connect — I’d love to collaborate!
 
 ---
 
@@ -127,4 +107,4 @@
 
 ---
 
-<p align="center"><i>Thanks for visiting — building little by little, every day.</i></p>
+<p align="center"><i>Thanks for visiting — building little by little, every day 💗</i></p>
