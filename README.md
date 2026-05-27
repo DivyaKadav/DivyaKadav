@@ -4,7 +4,7 @@
 
 ### Computational Linguistics | Japanese & German Language Specialist | Localization | NLP | Semantics
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Language+%2B+Technology;Computational+Linguistics+%26+Semantics;Japanese+%26+German+Language+Specialist;Localization+%7C+NLP+%7C+Linguistic+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Computational+Linguistics+%7C+Semantics;Japanese+%26+German+Language+Specialist;Localization+%7C+Translation+%7C+Proofreading;NLP+%7C+Corpus+Analysis+%7C+Language+Documentation;Morphology+%7C+Phonology+%7C+Linguistic+Research;Multilingual+Communication+%7C+Language+Technology)](https://git.io/typing-svg)
 
 </div>
 
