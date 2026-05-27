@@ -82,17 +82,44 @@ My academic work includes **phonological and morphological analysis of Ujoni Ass
 
 ## Featured Work
 
-### Ujoni Assamese Linguistic Analysis  
-Phonological and morphological analysis focused on language structure, documentation, and regional language research.
+### Ujoni Assamese Documentation & Morphophonemic Analysis
+Field-based linguistic documentation and analysis of the phonological and morphological system of Ujoni Assamese.
 
-### Computational Linguistics & Semantics  
-Interest in meaning representation, text analysis, language data, and multilingual NLP applications.
+- Conducted 50+ hours of speech data collection
+- Performed IPA transcription and annotation using ELAN
+- Conducted acoustic analysis using Praat
+- Developed an annotated corpus documenting morphophonemic patterns
+- Focused on low-resource language documentation and preservation
 
-### Localization & Translation  
-Work related to translation, proofreading, cultural adaptation, and multilingual communication.
+### Human vs Machine Translation Evaluation using NLP Metrics
+Comparative evaluation of human and machine translation across literary, legal-political, and conversational corpora.
 
-### Language Data & Annotation  
-Structured handling of linguistic data for documentation, analysis, and language technology workflows.
+- Built a Python-based multilingual corpus processing pipeline
+- Applied METEOR and BERTScore evaluation metrics
+- Analyzed fluency, stylistic preservation, and semantic equivalence
+- Generated comparative observations highlighting MT strengths and limitations
+
+### Rule-Based Marathi Morphological Analyzer
+Python-based rule-driven morphological analysis project for Marathi inflectional patterns.
+
+- Implemented suffix mapping for noun and verb inflections
+- Built conjugation and pluralization functions
+- Processed structured lexical data using dictionary-based transformations
+- Explored computational approaches to Indian language morphology
+
+### Hindi-to-English Literary Translation & Semantic Adaptation
+Academic literary translation project focused on semantic equivalence and contextual adaptation.
+
+- Completed full-length Hindi-to-English literary translation
+- Applied translation theory and equivalence strategies
+- Conducted semantic and stylistic review for readability and consistency
+- Analyzed cultural adaptation in literary translation
+
+---
+
+## Currently Exploring
+
+I am also interested in continuously learning new things related to technology, language systems, AI-assisted communication, NLP workflows, multilingual tools, and emerging developments in computational linguistics and language technology.
 
 ---
 
@@ -100,9 +127,9 @@ Structured handling of linguistic data for documentation, analysis, and language
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=github_dark&hide_border=true" width="36%" />
 
 </div>
 
@@ -112,19 +139,9 @@ Structured handling of linguistic data for documentation, analysis, and language
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaKadav&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaKadav&theme=github-dark&hide_border=true" width="100%" />
 
 </div>
-
----
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyaKadav/DivyaKadav/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyaKadav/DivyaKadav/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/DivyaKadav/DivyaKadav/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
