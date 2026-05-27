@@ -14,9 +14,9 @@
 
 I am a multilingual linguist working at the intersection of **language, technology, and multilingual communication**.
 
-My interests include **computational linguistics, semantics, localization, NLP, corpus analysis, language documentation, and linguistic data annotation**.
+My interests include **computational linguistics, semantics, localization, NLP, translation, corpus analysis, language documentation, and linguistic data annotation**.
 
-My academic work includes **phonological and morphological analysis of Ujoni Assamese**, multilingual language research, and structured linguistic documentation. I am especially interested in how language structure, meaning, and technology can work together in real-world communication systems.
+My academic work includes **phonological and morphological analysis of Assamese**, multilingual language research, and structured linguistic documentation. I am especially interested in how language structure, meaning, and technology can work together in real-world communication systems.
 
 ---
 
