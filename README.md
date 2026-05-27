@@ -123,16 +123,6 @@ I am also interested in continuously learning new things related to technology, 
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaKadav&theme=github-dark&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
