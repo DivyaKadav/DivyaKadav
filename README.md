@@ -123,18 +123,6 @@ I am also interested in continuously learning new things related to technology, 
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DivyaKadav&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKadav&layout=compact&theme=github_dark&hide_border=true" width="36%" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
